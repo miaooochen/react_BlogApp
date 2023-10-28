@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Keep ideas here!",
+      "dateTime": "October 03, 2023 3:52:54 PM",
+      "body": "keep your excellent ideas here..."
+    },
+    {
+      "id": 3,
+      "title": "How to use \"Search\" Bar",
+      "dateTime": "October 03, 2023 3:54:11 PM",
+      "body": "Type in \"Search\" bar for searching..."
+    },
+    {
+      "id": 4,
+      "title": "Create first post!",
+      "dateTime": "October 03, 2023 3:54:58 PM",
+      "body": "Click \"Post\" to create your new post..."
+    }
+  ]
+}
